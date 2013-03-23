@@ -1,0 +1,29 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<HTML>
+<HEAD>
+<META name="GENERATOR" content="IBM HomePage Builder 2000 V4.0.2  for Windows">
+<TITLE></TITLE>
+</HEAD>
+<BODY background="art_bg.gif">
+<P align="center"><IMG src="コンテンツ.gif" width="97" height="48" border="0"><BR>
+</P>
+<CENTER>
+<TABLE border="1">
+  <TBODY>
+    <TR bgcolor="#00ffff">
+      <TD align="center" width="100" height="40"><B><A href="indx.htm" target="_top">トップページ</A></B></TD>
+    </TR>
+    <TR bgcolor="#ffff00">
+      <TD align="center" width="100" height="40"><B>会社概要</B></TD>
+    </TR>
+    <TR bgcolor="#00ffff">
+      <TD align="center" width="100" height="40"><B><A href="jigyounaiyou.htm" target="_top">事業内容</A></B></TD>
+    </TR>
+    <TR bgcolor="#00ffff">
+      <TD align="center" width="100" height="40"><B><A href="kanrenkaisya.htm" target="_top">関連会社</A></B></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+</BODY>
+</HTML>

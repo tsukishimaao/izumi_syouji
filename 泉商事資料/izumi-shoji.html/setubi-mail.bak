@@ -1,0 +1,141 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<HTML>
+<HEAD>
+<META name="GENERATOR" content="IBM HomePage Builder 2000 V4.0.2  for Windows">
+<TITLE>お問い合せ</TITLE>
+</HEAD>
+<BODY bgcolor="#00ffff" background="wall10_3.gif">
+<H1 align="center">お問い合せ</H1>
+<TABLE border="1">
+  <TBODY>
+    <TR>
+      <TD align="center">商品名</TD>
+      <TD align="center">型 　　　　式</TD>
+      <TD>　　　　　　</TD>
+      </TR>
+    <TR>
+      <TD>
+      <FORM>　<INPUT type="radio" name="syouhin" value="eacon">　石油エアコン</FORM>
+      </TD>
+      <TD align="right">
+      <FORM><SELECT name="ＥＡＣＯＮ">
+      <OPTION value="280ax">CSK-280AX \252,000</OPTION>
+      <OPTION value="CSK280">CSK-280 \228,000</OPTION>
+      <OPTION value="sentaku" selected>・・・選択して下さい・・・</OPTION>
+      </SELECT></FORM>
+      </TD>
+      <TD>
+      <FORM><INPUT type="radio" name="eacon" value="kataroguhosii">カタログがほしい　　<INPUT type="radio" name="eacon" value="mitumorisitehosii">見積もりしてほしい</FORM>
+      </TD>
+      </TR>
+    <TR>
+      <TD>
+      <FORM>　<INPUT type="radio" name="syouhinn" value="kyutouki">　石油給湯器</FORM>
+      </TD>
+      <TD align="right">
+      <FORM><SELECT name="kyuutouki">
+      <OPTION value="MW">UKB-G4000AHT(MW)　\267,000</OPTION>
+      <OPTION value="FFW">UKB-G4000AHT(FFW) \265,000</OPTION>
+      <OPTION value="sentaku" selected>・・・選択して下さい・・・</OPTION>
+      </SELECT></FORM>
+      </TD>
+      <TD>
+      <FORM><INPUT type="radio" name="kyutouki" value="kataroguhosii">カタログがほしい　　<INPUT type="radio" name="kyutouki" value="mitumorisitai">見積もりしてほしい</FORM>
+      </TD>
+      </TR>
+    <TR>
+      <TD>
+      <FORM>　<INPUT type="radio" name="syouhinmei" value="roomheater">　温水ﾙｰﾑﾋｰﾀｰ</FORM>
+      </TD>
+      <TD align="right">
+      <FORM><SELECT>
+      <OPTION value="mitumori">見積してほしい</OPTION>
+      <OPTION value="kiku">詳しく聞きたい</OPTION>
+      <OPTION value="sentaku" selected>・・・選択して下さい・・・</OPTION>
+      </SELECT></FORM>
+      </TD>
+      <TD></TD>
+      </TR>
+    <TR>
+      <TD rowspan="5">
+      <FORM>　<INPUT type="radio" name="syouhinmei" value="benki">　ウｵシュレット一体型便器</FORM>
+      </TD>
+      <TD align="right">
+      <FORM>NEW ZG3　<SELECT name="bennki">
+      <OPTION value="9098h">CES9098H \228,000</OPTION>
+      <OPTION value="9098hl">CES9098HL \232,000</OPTION>
+      <OPTION value="sentaku" selected>・・・選択して下さい・・・</OPTION>
+      </SELECT>
+      </FORM>
+      </TD>
+      <TD rowspan="5">
+      <FORM><INPUT type="radio" name="benki" value="kataroguhosii">カタログがほしい　　<INPUT type="radio" name="benki" value="mitumorisitai">見積もりしてほしい</FORM>
+      </TD>
+      </TR>
+    <TR>
+      <TD align="right">NEW ZG2　
+      <SELECT name="bennki2">
+      <OPTION value="9088h">CES9088H \212,000</OPTION>
+      <OPTION value="9088hl">CES9088HL \216,000</OPTION>
+      <OPTION value="sentaku" selected>・・・選択して下さい・・・</OPTION>
+      </SELECT>
+      </TD>
+      </TR>
+    <TR>
+      <TD align="right">NEW ZG1　
+      <SELECT name="bennki3">
+      <OPTION value="9078h">CES9078H \207,000</OPTION>
+      <OPTION value="9078hl">CES9078HL \211,000</OPTION>
+      <OPTION value="sentaku" selected>・・・選択して下さい・・・</OPTION>
+      </SELECT>
+      </TD>
+      </TR>
+    <TR>
+      <TD align="right">NEW ZS2　
+      <SELECT name="benki4">
+      <OPTION value="9068h">CES9068H \176,000</OPTION>
+      <OPTION value="9068hl">CES9068HL \180,000</OPTION>
+      <OPTION value="sentaku" selected>・・・選択して下さい・・・</OPTION>
+      </SELECT>
+      </TD>
+      </TR>
+    <TR>
+      <TD align="right">NEW ZS1　
+      <SELECT name="benki5">
+      <OPTION value="9058h">CES9058H \160,000</OPTION>
+      <OPTION value="9058hl">CES9058HL \164,000</OPTION>
+      <OPTION value="sentaku" selected>・・・選択して下さい・・・</OPTION>
+      </SELECT>
+      </TD>
+      </TR>
+    <TR>
+      <TD colspan="3" align="center">その他水道に関するご質問等ありましたら下に入力して下さい。</TD>
+      </TR>
+    <TR>
+      <TD colspan="3" align="center">
+      <TEXTAREA rows="5" cols="50" name="situmon"></TEXTAREA>
+      </TD>
+      </TR>
+    <TR>
+      <TD colspan="3"><FONT color="#ff0000">※見積り及びカタログ請求は遠野市近郊の方に限らせていただきます。</FONT></TD>
+      </TR>
+  </TBODY>
+</TABLE>
+<P>■郵便番号　　　　　　　<INPUT size="24" type="text" name="post numbar" maxlength="8"></P>
+<P>■住　　所　　　　　　　　<INPUT size="60" type="text" name="jyusyo" maxlength="20"></P>
+<P>■氏　　名　　　　　　　　<INPUT size="30" type="text" name="name" maxlength="10"></P>
+<P>■フリガナ　　　　　　　　<INPUT size="30" type="text" name="hurigana" maxlength="15"></P>
+<P>■電話番号　　　　　　　<INPUT size="26" type="text" name="tel"></P>
+<P>■E-メール　　　　　　　 <INPUT size="30" type="text" name="e-mail"></P>
+<FORM><INPUT type="submit" name="sousin" value="　送　　信　　">　　　<INPUT type="reset" name="reseto" value="　　リセット　　"></FORM>
+<CENTER>
+<TABLE border="5">
+  <TBODY>
+    <TR>
+      <TD bgcolor="#ffff33"><B><FONT size="+1">　戻　　る　</FONT></B></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+</BODY>
+</HTML>

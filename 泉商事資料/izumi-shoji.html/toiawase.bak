@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<HTML>
+<HEAD>
+<META name="GENERATOR" content="IBM HomePage Builder 2000 V4.0.2  for Windows">
+<TITLE>お問い合わせ</TITLE>
+</HEAD>
+<BODY bgcolor="#00ffff">
+<H1 align="center">お問い合わせ</H1>
+<P align="center">※必要項目を入力して「送信」をクリックして下さい。<BR></P>
+<CENTER>
+<TABLE>
+  <TBODY>
+    <TR>
+      <TD colspan="7">宛先の会社名に印を付けて下さい。</TD>
+    </TR>
+    <TR>
+      <TD width="100" height="20" align="left" nowrap>
+      <FORM><INPUT type="radio" name="atesaki" value="izumi"> ㈱泉商店</FORM>
+      </TD>
+      <TD align="left" width="120" height="20" nowrap>
+      <FORM><INPUT type="radio" name="atesaki" value="senken"> 泉建工業㈱</FORM>
+      </TD>
+      <TD align="left" width="100" height="20" nowrap>
+      <FORM><INPUT type="radio" name="atesaki" value="sougyou"> 泉総業㈱</FORM>
+      </TD>
+      <TD nowrap width="130" height="20">
+      <FORM><INPUT type="radio"> ㈱遠野レミコン</FORM>
+      </TD>
+      <TD></TD>
+      <TD align="left" width="130" height="20" nowrap>
+      <FORM><INPUT type="radio" name="atesaki" value="sinwa"> 神和運送（株）</FORM>
+      </TD>
+      <TD align="left" width="140" height="20" nowrap>
+      <FORM><INPUT type="radio" name="atesaki" value="suidou "> 遠野水道工業㈱</FORM>
+      </TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<P>■郵便番号　　　　　　　<INPUT size="14" type="text" name="yuubinnbanngou">　　　　　</P>
+<P>■ご住所　　　　　　　　 <INPUT size="69" type="text" name="jyusyo"></P>
+<P>■ＴＥＬ　　　　　　　　　　<INPUT size="20" type="text" name="TEL"></P>
+<P>■お名前　　　　　　　　 <INPUT size="20" type="text" name="name"></P>
+<P>■Ｅメール　　　　　　　 <INPUT size="30" type="text" name="mail"></P>
+<P>■ご相談内容をここに入力して下さい．</P>
+<FORM>　　　　<TEXTAREA rows="8" cols="69" name="soudan"></TEXTAREA></FORM>
+<FORM><INPUT type="submit" name="sousin" value="　送　信　">　　<INPUT type="reset" name="clear" value="リセット"></FORM>
+<P align="center"><BR>
+</P>
+<CENTER>
+<TABLE bgcolor="#00ffff" width="569" height="25" border="3">
+  <TBODY>
+    <TR>
+      <TD bgcolor="#00ffff" width="110" height="20" align="center" nowrap><B><FONT size="+1">戻　る</FONT></B></TD>
+      <TD bgcolor="#ffff33" align="center" nowrap width="110" height="20"><A href="indx.htm">トップページへ</A></TD>
+      <TD bgcolor="#00ffff" nowrap width="100" height="20"></TD>
+      <TD bgcolor="#00ffff" nowrap width="100" height="20"></TD>
+      <TD bgcolor="#00ffff" nowrap width="100" height="20"></TD>
+      <TD bgcolor="#00ffff" nowrap width="100" height="20"></TD>
+    </TR>
+    <TR>
+      <TD width="110" height="20" align="center" bgcolor="#ffff33" nowrap>㈱泉商店へ</TD>
+      <TD width="110" height="20" align="center" bgcolor="#ffff33" nowrap>泉建工業㈱へ</TD>
+      <TD width="110" height="20" align="center" bgcolor="#ffff33" nowrap>泉総業㈱へ</TD>
+      <TD width="120" height="20" align="center" bgcolor="#ffff33" nowrap><A href="tonoremikon.htm">㈱遠野レミコンへ</A></TD>
+      <TD width="110" height="20" align="center" bgcolor="#ffff33" nowrap><A href="sinwa-unsou.htm">神和運送㈱へ</A></TD>
+      <TD width="130" height="20" align="center" bgcolor="#ffff33" nowrap><A href="tono-suidou.htm">遠野水道工業㈱へ</A></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<CENTER>
+</CENTER>
+</BODY>
+</HTML>

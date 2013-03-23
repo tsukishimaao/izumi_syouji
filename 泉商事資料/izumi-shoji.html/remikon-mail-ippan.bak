@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<HTML>
+<HEAD>
+<META name="GENERATOR" content="IBM HomePage Builder 2000 V4.0.2  for Windows">
+<TITLE>生コン注文・新規個人</TITLE>
+</HEAD>
+<BODY bgcolor="#ffff99">
+<P align="center"><B><FONT color="#0000ff" size="7">生コンクリート注文用</FONT></B></P>
+<P align="center"><FONT size="+3" color="#0066ff"><B>（初めて・個人の方用）</B></FONT></P>
+<HR>
+<P>■　氏　名　　　　<INPUT size="40" type="text" name="name" maxlength="30">　　　　　　　　　　　</P>
+<P>■　場　所　　　　<INPUT size="40" type="text" name="genba" maxlength="35"></P>
+<FORM>■　連絡先　　　　<INPUT size="28" type="text" name="remikon tel" maxlength="20"></FORM>
+<P>■現場着時間<BR>
+平成　１２年　<INPUT size="5" type="text" name="ｍ" maxlength="4">月　<INPUT size="5" type="text" name="day" maxlength="4">日　　　　<INPUT type="radio" name="jikan" value="am">午前　　<INPUT type="radio" name="jikan" value="pm">午後　　<INPUT size="5" type="text" name="hour" maxlength="4">時　　<INPUT size="5" type="text" name="min" maxlength="4">分</P>
+<FORM>■配合及び数量<BR>
+<TABLE width="634" height="107">
+  <TBODY>
+    <TR>
+      <TD></TD>
+      <TD align="center" width="121"><FONT size="3"><B>強　　　度</B></FONT></TD>
+      <TD align="center"><FONT size="3"><B>スランプ</B></FONT></TD>
+      <TD width="136" height="17" align="center"><FONT size="3"><B>　骨材寸法</B></FONT></TD>
+      <TD align="center" width="74"><FONT size="3"><B>セメント</B></FONT></TD>
+      <TD align="left"><FONT size="3"><B>　　　数　量</B></FONT></TD>
+    </TR>
+    <TR>
+      <TD align="center">①</TD>
+      <TD width="128" height="24" align="center"><INPUT size="14" type="text" name="kyoudo" maxlength="10"></TD>
+      <TD align="center"><INPUT size="10" type="text" name="kyoudo" maxlength="10"></TD>
+      <TD align="center"><INPUT type="radio" name="saizu" value="25">２５　<INPUT type="radio" name="saizu" value="40">４０</TD>
+      <TD align="center"><INPUT type="radio" name="semento" value="n">Ｎ　<INPUT type="radio" name="semento" value="h">H</TD>
+      <TD width="161" align="center" height="28"><INPUT size="10" type="text" name="kyoudo" maxlength="10"><FONT face="Map Symbols">　</FONT><FONT size="+2"></FONT></TD>
+    </TR>
+    <TR>
+      <TD align="center">②</TD>
+      <TD align="center"><INPUT size="14" type="text" name="kyoudo" maxlength="10"></TD>
+      <TD align="center"><INPUT size="10" type="text" name="kyoudo" maxlength="10"></TD>
+      <TD align="center"><INPUT type="radio" name="saizu" value="25">２５　<INPUT type="radio" name="saizu" value="40">４０</TD>
+      <TD align="center"><INPUT type="radio" name="semento" value="n">Ｎ　<INPUT type="radio" name="semento" value="h">H</TD>
+      <TD align="center"><INPUT size="10" type="text" name="kyoudo" maxlength="10">　<FONT size="+2"></FONT></TD>
+    </TR>
+    <TR>
+      <TD align="center">③</TD>
+      <TD align="center"><INPUT size="14" type="text" name="kyoudo" maxlength="10"></TD>
+      <TD align="center"><INPUT size="10" type="text" name="kyoudo" maxlength="10"></TD>
+      <TD align="center"><INPUT type="radio" name="saizu" value="25">２５　<INPUT type="radio" name="saizu" value="40">４０</TD>
+      <TD align="center"><INPUT type="radio" name="semento" value="n">Ｎ　<INPUT type="radio" name="semento" value="h">H</TD>
+      <TD align="center"><INPUT size="10" type="text" name="kyoudo" maxlength="10">　<FONT size="+2"></FONT></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</FORM>
+<FORM>■車のピッチ　　　　　　<INPUT size="40" type="text" name="車のピッチ" maxlength="40"></FORM>
+<FORM>■車の指定　　　　　　 <SELECT name="sitei">
+<OPTION value="nasi">なし</OPTION>
+<OPTION value="ogata">大型</OPTION>
+<OPTION value="kogata" selected>小型</OPTION>
+</SELECT></FORM>
+<FORM>■その他指定　　　　　<INPUT type="radio" name="sitei" value="w/c">Ｗ／Ｃ　<INPUT size="5" type="text" name="Ｗ／Ｃ">％以下 　・　　<INPUT type="radio" name="sitei" value="sonota">その他</FORM>
+<FORM>■現場代行試験（有料）　　　<INPUT type="radio" name="siken" value="yes">有　　　　<INPUT type="radio" name="siken" value="no">無　</FORM>
+<FORM><TEXTAREA rows="5" cols="50" name="備考">その他何かありましたら、ここに入力して下さい。</TEXTAREA></FORM>
+<P><B><FONT color="#ff0000">■ご利用代金は現金にてお支払い頂きますようお願いいたします。</FONT></B></P>
+<FORM>上記の内容が正しければ、送信ボタンをクリックして下さい。<BR>
+間違えていた場合は、リセットボタンをクリックすると内容が解除されます。<BR>
+　　<INPUT type="submit" name="send" value="送　信">　<INPUT type="reset" name="clear" value="リセット"></FORM>
+<P align="center"><B><FONT size="+2">［　戻　る　］</FONT></B></P>
+</BODY>
+</HTML>

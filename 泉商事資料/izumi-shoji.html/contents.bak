@@ -1,0 +1,33 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<HTML>
+<HEAD>
+<META name="GENERATOR" content="IBM HomePage Builder 2000 V4.0.2  for Windows">
+<TITLE>contents</TITLE>
+</HEAD>
+<BODY background="blue_p2b.gif">
+<DIV id="Layer2" style="position : absolute;z-index : 2;visibility : visible;height : 117px;width : 83px;top : 305px;left : 39px;">
+<A href="mailto:izmgcs@oregano.ocn.ne.jp"><IMG src="t_m_box.gif" width="60" height="70" border="0"></A><BR>
+<SCRIPT language="JavaScript">
+<!--
+// 左のウィンドウからアイテムをドラッグして
+// ここにドロップするか、マウスの右ボタン
+// でポップアップ メニューを出して「スクリプト
+// に挿入」を選択して、現在のカーソル位置に
+// コードを挿入します。
+document.write('最終更新日時: ', document.lastModified, "<BR>");
+
+//-->
+</SCRIPT>
+<BR>
+</DIV>
+<DIV id="Layer1" style="position : absolute;z-index : 1;visibility : visible;width : 101px;height : 283px;top : 13px;left : 33px;"><IMG src="botancontents.gif" width="100" height="35" border="0"><BR>
+<A href="newpage4.htm" target="youkoso"><IMG src="botantop.gif" width="100" height="35" border="0"></A><BR>
+<IMG src="botanjyouhou.gif" width="100" height="35" border="0"><BR>
+<A href="kaisyagaiyou.htm" target="youkoso"><IMG src="botangaiyou.gif" width="100" height="35" border="0"></A><BR>
+<A href="jigyounaiyou.htm" target="youkoso"><IMG src="botannaiyou.gif" width="100" height="35" border="0"></A><BR>
+<A href="kanren.htm" target="youkoso"><IMG src="botankeiretu.gif" width="100" height="35" border="0"></A><BR>
+<A href="toiawase.htm" target="_blank"><IMG src="botantoiawase.gif" width="100" height="35" border="0"></A><BR>
+<A href="map.htm" target="youkoso"><IMG src="botanmap.gif" width="100" height="35" border="0"></A>
+</DIV>
+</BODY>
+</HTML>
